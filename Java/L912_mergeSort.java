@@ -45,8 +45,6 @@ public class L912_mergeSort {
             k2++;
             k++;
         }
-        
-        
     }
     
     private void mergeSort(int[] A, int l, int r) {
@@ -60,3 +58,8 @@ public class L912_mergeSort {
     }
 
 }
+
+
+/* Complexity Analysis 
+# Running Time: O(nlogn)
+# Space Complexity: O(1) */
