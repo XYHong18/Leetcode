@@ -29,3 +29,9 @@ def find_max_crossing_subarray(nums, mid, lo, hi):
         rightMax = max(rightSum, rightMax)
 
     return leftMax+rightMax
+
+
+
+########## Complexity Analysis ##########
+## 1. Running time: O(nlogn)
+## 2. Space Complexity: O(logn) ???

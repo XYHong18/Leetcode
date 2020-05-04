@@ -1,5 +1,8 @@
 # Leetcode Solutions
 
+## 1. Two Sum
+### Method: Hash Table
+
 ## 53. Maximum Subarray
 ### Method 1: Divide and conquer:  
 Any contiguous subarray A[i...j] of A[low...high] must lie in exactly one of the following places:  
