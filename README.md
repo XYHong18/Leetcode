@@ -3,6 +3,12 @@
 ## 1. Two Sum
 - [x] **Method: Hash Table**
 
+## 2. Add Two Numbers
+- [x] **Method: Lined List**
+
+## 11. Container With Most Water
+- [x] **Method: Two Pointers**
+
 ## 53. Maximum Subarray
 - [x] **Method 1: Divide and conquer:**    
 Any contiguous subarray A[i...j] of A[low...high] must lie in exactly one of the following places:  
@@ -12,6 +18,9 @@ Any contiguous subarray A[i...j] of A[low...high] must lie in exactly one of the
 - [x] **Method 2: Dynamic Programming:**   
 Define the largest sum of the subarray that ends at nums[i] as dp[i], then  
 dp[i] = max(nums[i], nums[i]+dp[i-1]) 
+
+## 146. LRU Cache
+- [x] **Method: Hashtable, Doubly Linked List**
 
 ## 200. Number of Islands
 - [x] **Method 1: DFS**
