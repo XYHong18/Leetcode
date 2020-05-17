@@ -27,6 +27,9 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 - [ ] **Method 2: BFS**
 - [ ] **Method 3: Union Find**
 
+## 238. Product of Array Except Self
+- **Related Topic: Array**
+
 ## 912. Sort an Array
 - [x] **Method 1: Merge-sort**
 - [x] **Method 2: Quick-sort**  
