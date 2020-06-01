@@ -12,6 +12,9 @@
 ## 11. Container With Most Water
 - [x] **Method: Two Pointers**
 
+## 33. Search in Rotated Sorted Array
+- [x] **Method: Binary Search** (To be improved ...)
+
 ## 50. Pow(x, n)
 - [x] **Method: Binary Search**
 
