@@ -32,7 +32,7 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 - [x] **Method: Hashtable, Doubly Linked List**
 
 ## 167. Two Sum II - Input array is sorted
--[x] **Method1: Two Pointers**
+-[x] **Method1: Two Pointers**  
 -[] **Method2: Binary Search**
 
 ## 200. Number of Islands
