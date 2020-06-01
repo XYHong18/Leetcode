@@ -9,7 +9,7 @@
  * }
  */
 
-public class L02_addTwoNumbers {
+public class L0002_addTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode temp = new ListNode();
         ListNode res = temp;

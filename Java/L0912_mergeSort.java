@@ -1,5 +1,5 @@
 
-public class L912_mergeSort {
+public class L0912_mergeSort {
     public int[] sortArray(int[] nums) {
         mergeSort(nums, 0, nums.length-1);
         return nums;

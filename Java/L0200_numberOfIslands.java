@@ -1,5 +1,5 @@
 
-public class L200_numberOfIslands {
+public class L0200_numberOfIslands {
     public int numIslands(char[][] grid) {
         int res = 0;
         int m = grid.length;

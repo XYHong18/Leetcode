@@ -1,6 +1,6 @@
 import java.util.Hashtable;
 
-public class L146_LRUCache {
+public class L0146_LRUCache {
     class DoublyLinkedNode {
         int key;
         int value;

@@ -1,4 +1,4 @@
-public class L912_quickSort {
+public class L0912_quickSort {
     public int[] sortArray(int[] nums) {
         quickSort(nums, 0, nums.length-1);
         return nums;

@@ -1,4 +1,4 @@
-public class L238_productOfArrayExceptSelf {
+public class L0238_productOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] res = new int[n];

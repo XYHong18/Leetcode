@@ -1,5 +1,5 @@
 
-public class L53_divide_and_conquer {
+public class L0053_divide_and_conquer {
     public int maxSubArray(int[] nums) {
         return findMaxSubarray(nums, 0, nums.length-1);
     }

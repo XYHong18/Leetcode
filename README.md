@@ -6,6 +6,9 @@
 ## 2. Add Two Numbers
 - [x] **Method: Lined List**
 
+## 4. Median of Two Sorted Arrays (Hard)
+- [x] **Method: Binary Search** 
+
 ## 11. Container With Most Water
 - [x] **Method: Two Pointers**
 

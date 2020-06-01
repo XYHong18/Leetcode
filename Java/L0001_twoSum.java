@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class L01_twoSum {
+public class L0001_twoSum {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> tracker = new HashMap<Integer, Integer>();
         int n = nums.length;
