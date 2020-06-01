@@ -12,6 +12,9 @@
 ## 11. Container With Most Water
 - [x] **Method: Two Pointers**
 
+## 50. Pow(x, n)
+- [x] **Method: Binary Search**
+
 ## 53. Maximum Subarray
 - [x] **Method 1: Divide and conquer:**    
 Any contiguous subarray A[i...j] of A[low...high] must lie in exactly one of the following places:  
