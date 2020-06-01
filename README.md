@@ -13,7 +13,7 @@
 - [x] **Method: Two Pointers**
 
 ## 33. Search in Rotated Sorted Array
-- [] **Method: Binary Search** (To be improved ...)
+- [ ] **Method: Binary Search** (To be improved ...)
 
 ## 50. Pow(x, n)
 - [x] **Method: Binary Search**
@@ -33,7 +33,7 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 
 ## 167. Two Sum II - Input array is sorted
 -[x] **Method1: Two Pointers**  
--[] **Method2: Binary Search**
+-[ ] **Method2: Binary Search**
 
 ## 200. Number of Islands
 - [x] **Method 1: DFS**
