@@ -18,6 +18,9 @@
 ## 33. Search in Rotated Sorted Array
 - [ ] **Method: Binary Search** (To be improved ...)
 
+## 34. Find First and Last Position of Element in Sorted Array
+- [x] **Method: Binary Search** (To be improved ...)
+
 ## 46. Permutations
 - [x] **Method 1: Recursion**
 - [x] **Method 2: Backtracking**
@@ -45,6 +48,9 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 ## 56. Merge Intervals
 - [x] **Method: sorting**
 
+## 64. Minimum Path Sum
+- [x] **Method: Dynamic Programming**
+
 ## 78. Subsets
 - [x] **Method 1: Recursion**
 - [x] **Method 2: Backtracking**
@@ -53,11 +59,17 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 ## 88. Merge Sorted Array (in-place)
 - [x] **Method: Two Pointers**
 
+## 105. Construct Binary Tree from Preorder and Inorder Traversal
+- **Relate Topics: Tree**
+
 ## 121. Best Time to Buy and Sell Stock
 - [x] **Method: Dynamic Programming**
 
 ## 146. LRU Cache
 - [x] **Method: Hashtable, Doubly Linked List**
+
+## 152. Maximum Product Subarray
+- [x] **Method: Dynamic Programming**
 
 ## 167. Two Sum II - Input array is sorted
 - [x] **Method1: Two Pointers**  
@@ -72,8 +84,14 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 - [ ] **Method 2: BFS**
 - [ ] **Method 3: Union Find**
 
+## 209. Minimum Size Subarray Sum
+- [x] **Method: Two Pointers**
+
 ## 238. Product of Array Except Self
 - [x] **Related Topic: Array**
+
+## 287. Find the Duplicate Number
+- [x] **Method: Two Pointers**
 
 ## 289. Game of Life
 - **Related Topics: Array**
