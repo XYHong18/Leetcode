@@ -1,4 +1,4 @@
-package Java;
+import java.util.Arrays;
 
 public class L0561_arrayPartitionI {
     public int arrayPairSum(int[] nums) {

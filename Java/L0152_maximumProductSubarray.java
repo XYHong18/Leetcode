@@ -1,5 +1,6 @@
 public class L0152_maximumProductSubarray {
-    int n = nums.length;
+    public int maxProduct(int[] nums) {
+        int n = nums.length;
         int[][] dp = new int[n][2];
         dp[0][0] = nums[0];
         dp[0][1] = nums[0];
@@ -16,4 +17,5 @@ public class L0152_maximumProductSubarray {
         }
         
         return res;
+    }
 }

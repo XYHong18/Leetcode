@@ -12,6 +12,9 @@
 ## 11. Container With Most Water
 - [x] **Method: Two Pointers**
 
+## 16. 3Sum Closest
+- [x] **Method: Two Pointers**
+
 ## 31. Next Permutation
 - [x] **Two Pointers**
 
@@ -99,11 +102,20 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 ## 380. Insert Delete GetRandom O(1)
 - [x] **Method: Hashap & ArrayList**
 
+## 442. Find All Duplicates in an Array
+- **Related Topics: Array**
+
+## 448. Find All Numbers Disappeared in an Array
+- **Related Topics: Array**
+
 ## 560. Subarray Sum Equals K
 - [x] **Method: HashMap/Hashtable**
 
 ## 561. Array Partition I
 - [x] **Method: sorting**
+
+## 695. Max Area of Island
+- [x] **Method: Depth-first Search**
 
 ## 912. Sort an Array
 - [x] **Method 1: Merge-sort**
