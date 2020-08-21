@@ -12,8 +12,19 @@
 ## 11. Container With Most Water
 - [x] **Method: Two Pointers**
 
+## 31. Next Permutation
+- [x] **Two Pointers**
+
 ## 33. Search in Rotated Sorted Array
 - [ ] **Method: Binary Search** (To be improved ...)
+
+## 46. Permutations
+- [x] **Method 1: Recursion**
+- [x] **Method 2: Backtracking**
+- [ ] **Method 3: Bit Manipulation**
+
+## 48. Rotate Image
+- **Related Topics: Array**
 
 ## 50. Pow(x, n)
 - [x] **Method: Binary Search**
@@ -28,6 +39,23 @@ Any contiguous subarray A[i...j] of A[low...high] must lie in exactly one of the
 Define the largest sum of the subarray that ends at nums[i] as dp[i], then  
 dp[i] = max(nums[i], nums[i]+dp[i-1]) 
 
+## 54. Spiral Matrix
+- **Related Topics: Array**
+
+## 56. Merge Intervals
+- [x] **Method: sorting**
+
+## 78. Subsets
+- [x] **Method 1: Recursion**
+- [x] **Method 2: Backtracking**
+- [ ] **Method 3: Bit Manipulation**
+
+## 88. Merge Sorted Array (in-place)
+- [x] **Method: Two Pointers**
+
+## 121. Best Time to Buy and Sell Stock
+- [x] **Method: Dynamic Programming**
+
 ## 146. LRU Cache
 - [x] **Method: Hashtable, Doubly Linked List**
 
@@ -35,13 +63,29 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 - [x] **Method1: Two Pointers**  
 - [ ] **Method2: Binary Search**
 
+## 169. Majority Element
+- [x] **Method1: HashMap**
+- [x] **Method2: the median**
+
 ## 200. Number of Islands
 - [x] **Method 1: DFS**
 - [ ] **Method 2: BFS**
 - [ ] **Method 3: Union Find**
 
 ## 238. Product of Array Except Self
-- **Related Topic: Array**
+- [x] **Related Topic: Array**
+
+## 289. Game of Life
+- **Related Topics: Array**
+
+## 380. Insert Delete GetRandom O(1)
+- [x] **Method: Hashap & ArrayList**
+
+## 560. Subarray Sum Equals K
+- [x] **Method: HashMap/Hashtable**
+
+## 561. Array Partition I
+- [x] **Method: sorting**
 
 ## 912. Sort an Array
 - [x] **Method 1: Merge-sort**
