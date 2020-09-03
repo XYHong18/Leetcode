@@ -24,6 +24,9 @@
 ## 34. Find First and Last Position of Element in Sorted Array
 - [x] **Method: Binary Search** (To be improved ...)
 
+## 39. Combination Sum
+- [x] **Method: Backtracking**
+
 ## 46. Permutations
 - [x] **Method 1: Recursion**
 - [x] **Method 2: Backtracking**
@@ -58,6 +61,9 @@ dp[i] = max(nums[i], nums[i]+dp[i-1])
 - [x] **Method 1: Recursion**
 - [x] **Method 2: Backtracking**
 - [ ] **Method 3: Bit Manipulation**
+
+## 79. Word Search
+- [x] **Method: Backtracking**
 
 ## 88. Merge Sorted Array (in-place)
 - [x] **Method: Two Pointers**

@@ -1,4 +1,4 @@
-package Java;
+import java.util.HashMap;
 
 // Method1: HashMap
 public class L0169_majorityElement {

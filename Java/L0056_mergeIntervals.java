@@ -1,4 +1,5 @@
-package Java;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 // Method 1
 public class L0056_mergeIntervals {
